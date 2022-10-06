@@ -56,7 +56,7 @@ function Footer() {
               </div>
             </div>
           </div>
-          <div className="footer-bottom">&copy; | Designed By Junaid Qureshi</div>
+          <div className="footer-bottom">&copy; | Designed By Mighty Steve</div>
         </div>
       </footer>
     </div>
