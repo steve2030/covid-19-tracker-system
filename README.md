@@ -2,7 +2,7 @@
 
 ### Image
 
-<img src='src/images/virus.svg' alt="Covid19 WebApp"/>
+<img src='images/virus.png' alt="Covid19 WebApp"/>
 
 
 
