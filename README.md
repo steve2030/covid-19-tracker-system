@@ -3,7 +3,7 @@
 
 ### Image
 
-<img src='images/virus.png' alt="Covid19 WebApp"/>
+<img src='src/images/show/virus.png' alt="Covid19 WebApp"/>
 
 
 ## Task
