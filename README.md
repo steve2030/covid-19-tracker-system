@@ -1,12 +1,10 @@
 # Corona Virus Tracker Web Application
+### _COVID-19 Tracker Application that displays, current infected, recovered and death cases due to corona virus, Globally and Country wise with Charts and explainations._
 
 ### Image
 
 <img src='images/virus.png' alt="Covid19 WebApp"/>
 
-
-
-### _COVID-19 Tracker Application that displays, current infected, recovered and death cases due to corona virus, Globally and Country wise with Charts and explainations._
 
 ## Task
 
