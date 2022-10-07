@@ -20,7 +20,10 @@ Built this app to share awareness to people of the world about this Pandemic! , 
 
 ## Run Locally
 
-- Run this command `git`
+- Run this command `git clone:git@github.com:steve2030/covid-19-tracker-system.git`
+- Install Dependencies `npm i`
+- Start the server `npm start`
+-
 - You are now in the dev environment and you can play around
 
 ## Tech Stack
